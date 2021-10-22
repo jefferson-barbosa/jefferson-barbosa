@@ -5,24 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebarbosa&layout=compact&theme=vue"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <a href="https://github.com/jebarbosa/jebarbosa/">
-    <img align="center" alt="jebarbosa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-  <a href="https://github.com/jebarbosa/jebarbosa/">
-  <img align="center" alt="jebarbosa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  </a>
-  <a href="https://github.com/jebarbosa/jebarbosa/">  
-  <img align="center" alt="jebarbosa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </a>
-  <a href="https://github.com/jebarbosa/jebarbosa/">
-  <img align="center" alt="jebarbosa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  </a>
-  <a href="https://github.com/jebarbosa/jebarbosa/">
-  <img align="center" alt="jebarbosa-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  </a>
-</div>
-  
   ##
  
 <div> 
