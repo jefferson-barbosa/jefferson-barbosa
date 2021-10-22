@@ -1,8 +1,8 @@
 ### 👋 Olá! Eu sou o Jefferson Barbosa
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jebarbosa&show_icons=true&theme=vue"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebarbosa&layout=compact&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefferson-barbosa&show_icons=true&theme=vue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-barbosa&layout=compact&theme=vue"/>
 </div>
 
   ##
