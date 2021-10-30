@@ -14,7 +14,6 @@
   <a href="https://www.linkedin.com/in/jefferson-barbosa-5a3560215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://www.behance.net/jebarbosa" target="_blank"><img src="https://img.shields.io/badge/Behance-%20-%23216ef7?style=for-the-badge&logo=Behance&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/jebarbosa/jebarbosa/blob/output/github-contribution-grid-snake.svg)
 
   
 </div>
